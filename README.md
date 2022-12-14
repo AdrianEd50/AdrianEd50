@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align-items="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -8,7 +8,6 @@
   </a>
  
 </div>
-
 
 <h1>Hi there :hand:</h1>
 
