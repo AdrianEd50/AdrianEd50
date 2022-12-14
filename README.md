@@ -1,15 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adrian-lafjell-ed-3b04aa1b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+ <h1>Hi there :hand:</h1>
 </div>
-
-<h1 align="center">Hi there :hand:</h1>
+</div>
 
 <h1>About me</h1>
 <p>I am a student at Noroff technical school in Norway and I'm currently studying to become a frontend developer.</p>
