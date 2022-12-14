@@ -20,3 +20,5 @@
 
 <h1>My stats</h1>
 <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianEd50&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
