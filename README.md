@@ -19,4 +19,4 @@
 </div>
 
 <h1>My stats</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AdrianEd50&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianEd50&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
