@@ -17,3 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
 </div>
+
+<h1>My stats</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AdrianEd50&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
