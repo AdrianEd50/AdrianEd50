@@ -11,7 +11,7 @@
 </div>
 
 <h1>About me</h1>
-<p>I have finished a 2 year front-end developer program at Noroff technical school in Norway and I'm currently planing to become a frontend developer.</p>
+<p>My name is Adrian Lafjell Ed, I'm 22 years old and I have finished a 2 year front-end developer program at Noroff technical school in Norway and I'm currently planing to become a frontend developer.</p>
 <li>In my spare time I work and play golf and games with my friends</li>
 <li>How to reach me: https://www.linkedin.com/in/adrian-lafjell-ed-3b04aa1b6/</li>
 <h2>My portfolio website has linkes to some of the projects that I have made</h2>
