@@ -11,9 +11,12 @@
 </div>
 
 <h1>About me</h1>
-<p>I am a student at Noroff technical school in Norway and I'm currently studying to become a frontend developer.</p>
-<li>In my spare time I work and play games with my friends</li>
+<p>I have finished a 2 year front-end developer program at Noroff technical school in Norway and I'm currently planing to become a frontend developer.</p>
+<li>In my spare time I work and play golf and games with my friends</li>
 <li>How to reach me: https://www.linkedin.com/in/adrian-lafjell-ed-3b04aa1b6/</li>
+<h2>My portfolio website has linkes to some of the projects that I have made</h2>
+<li>My portfolio website GitHub: https://github.com/AdrianEd50/portfolio-website</li>
+<li>My portfolio Live site: https://portfolio-adrian-lafjell-ed.netlify.app/</li>
 
 ### :hammer_and_wrench: Languages and Tools :
 
